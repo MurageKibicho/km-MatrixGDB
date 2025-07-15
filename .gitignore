@@ -1,0 +1,5 @@
+# Ignore a directory (replace 'directory_name' with your folder)
+Safetensors/
+
+# Ignore all .o files (object files)
+*.o
