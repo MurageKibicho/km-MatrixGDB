@@ -1,2 +1,2 @@
-# km-MatrixGDB
-Kibicho's Montecarlo Matrix GDB : A Number-Theoretic Profiler for Optimizing Matrix Multiplications
+# km-MatrixProfiler
+Kibicho's Montecarlo Matrix Profiler : A Number-Theoretic Profiler for Optimizing Matrix Multiplications
